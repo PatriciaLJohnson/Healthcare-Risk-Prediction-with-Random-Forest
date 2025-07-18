@@ -65,4 +65,4 @@ This notebook was developed in **Google Colab** and can be adapted for use with 
 
 ---
 
-*Project by [Your Name]*  
+*Project by Patricia L Johnson*  
